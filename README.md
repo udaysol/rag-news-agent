@@ -4,8 +4,6 @@ An **AI-powered news assistant** that can answer questions from a **local news d
 
 ![image](readme_media/image.png)
 
-[Video](readme_media/Screencast.mp4)
-
 ## Overview
 
 This project combines **Retrieval-Augmented Generation (RAG)** with intelligent tool use.
@@ -145,3 +143,5 @@ Then rebuild your index:
 python build_index.py
 ```
 
+### **Working**
+![image](readme_media/Screencast.gif)
