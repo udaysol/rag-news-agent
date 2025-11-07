@@ -2,6 +2,10 @@
 
 An **AI-powered news assistant** that can answer questions from a **local news database** or perform a **live web search** when information is missing — powered by **LangChain**, **FAISS**, **Ollama embeddings**, and **Google Gemini API**.
 
+![image](readme_media/image.png)
+
+[Video](readme_media/Screencast.mp4)
+
 ## Overview
 
 This project combines **Retrieval-Augmented Generation (RAG)** with intelligent tool use.
